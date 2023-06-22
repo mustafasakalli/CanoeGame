@@ -1,1 +1,1 @@
-midterm
+Contains Canoe Game related file
